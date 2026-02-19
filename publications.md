@@ -1,14 +1,19 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2822
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 
-\f0\fs24 \cf0 # Publications\
-\
-A comprehensive and up-to-date list of publications is available on:\
-\
-- DBLP: https://dblp.org/pid/g/DanielaGrigori.html  \
-- Google Scholar: https://scholar.google.com/citations?user=uOpbfVsAAAAJ&hl=fr\
-}
+
+# Academic profiles : 
+A comprehensive and up-to-date list of publications is available on:
+- DBLP: https://dblp.org/pid/g/DanielaGrigori.html  
+- Google Scholar: https://scholar.google.com/citations?user=uOpbfVsAAAAJ&hl=fr
+
+  
+# Selected Publications
+- Wissam Gherissi, Joyce El Haddad, Daniela Grigori:
+A Framework for Object-Centric Predictive Process Monitoring Using Graph-Based Process Executions. ICWS 2025: 435-441
+- P. Delias, A. Lagopoulos, G.Tsoumakas, D. Grigori: Using multi-target feature evaluation to discover factors that affect business process behavior. Computers in Industry 99: 253-261 (2018)
+- P. Delias, M. Acheli and D. Grigori, "Applying the Method of Reflections through an Event Log for Evidence-based Process Innovation," 2019 International Conference on Process Mining (ICPM), 2019
+- M Acheli, D. Grigori, M Weidlich : Efficient Discovery of Compact Maximal Behavioral Patterns from Event Logs. CAiSE 2019: 579-594
+- M Acheli, D. Grigori, M Weidlich : Discovering and Analyzing Contextual Behavioral Patterns from Event Logs, IEEE Transactions on Knowledge and Data Engineering, 2021 
+- S.-M.-R. Beheshti, B. Benatallah, S. Sakr, Daniela Grigori, H. R. Motahari-Nezhad, M. C. Barukh, \underline{A. Gater}, S. H. Ryu: Process Analytics - Concepts and Techniques for Querying and Analyzing Process Data. Springer 2016, ISBN 978-3-319-25036-6, pp. 1-178\\
+-P. Delias, D. Grigori, M. L. Mouhoub, A. Tsoukias, Discovering Characteristics that Affect Process Control Flow, LNBIP (Lecture Notes in Business Information Processing)
+
+- D. Grigori, K. Belhajjame: Business Process Instances Discovery from Email Logs. SCC 2017 (2017 IEEE International Conference on Services Computing): 19-26
