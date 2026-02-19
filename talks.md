@@ -1,3 +1,7 @@
+---
+title: Invited Talkss
+---
+
 ## Invited Talks
 - 2024 Behavioral patterns discovery and analysis: issues and challenges\'94, AICCSA  
 - 2011 Workflow discovery, International Conference on Simulation Technology (SimTech), Mini-Symposium Women in Simulation Technology (invited by F. Leymann and D. Karastoyanova)  
