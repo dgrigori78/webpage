@@ -1,6 +1,6 @@
 title: "Daniela Grigori"
 description: "Full Professor, Paris Dauphine – PSL University"
-theme: jekyll-theme-minimal
+theme: minima
 markdown: kramdown
 
 header_pages:
