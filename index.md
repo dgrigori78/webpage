@@ -18,7 +18,7 @@ Daniela Grigori is a Full Professor at Paris Dauphine \'96 PSL University and a 
 \
 Over the years, she has built a strong record of academic leadership, including the direction of major research structures and the coordination of collective initiatives. She maintains long-term international collaborations and contributes actively to the animation of the scientific community through conference organization, program committees, invited talks, and panels. Her work also involves sustained engagement with industry and public stakeholders, participation in funded projects, contributions to reference books, and innovation activities including patents.
 
-
+---
 ## Main recent responsibilities 
 - Former Director of LAMSADE laboratory (2018 - 2021)  
 - Co-head of the MIDO (Mathematics and Comuter Science) teaching department of Paris-Dauphine
@@ -51,22 +51,25 @@ University (2015 - 2017)
 <strong>Les processus métiers : concepts, modèles et systèmes</strong> (Lavoisier, 2009) (contributor and co-author of two chapters in an edited volume)
 </div>
 
+---
 ## Full publication list
 - [DBLP](https://dblp.org/pid/g/DanielaGrigori.html)
 - [Google Scholar](https://scholar.google.com/citations?user=uOpbfVsAAAAJ&hl=fr)
 
-
+---
 ## International Network
 Active collaborations through co-authorship and joint supervision with partners including major universities in Austria, Germany, Ireland, Italy, Australia, Poland, and Greece.
 
+---
 ## Funding
 Recent and past support from ANR, CNRS, France Relance, PHC Utique, CAPES\'96COFECUB, and international partners, including industrial collaboration with LogPickr.
 
+---
 ## Outreach & Innovation
 - Contribution to the popular science book *Les Big Data à Découvert" (CNRS éditions).  
 - Co-inventor of two patents in Business Process Intelligence.
 
-
+---
 ## Contact
 [Paris Dauphine – PSL University](https://dauphine.psl.eu)  
 [LAMSADE](https://www.lamsade.dauphine.fr/)
