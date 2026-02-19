@@ -1,3 +1,7 @@
+---
+title: Service
+---
+
 ## Conference Organization
 - Organizing Committee: BDA'18, BDA'11, EDA'06, ICSNW 2004, ICSOC 2014  
 - PC Chair: ICSOC 2015, ICSOC 2014 Workshops, COOPIS 2024  
