@@ -4,8 +4,8 @@
 <img src="assets/photo.jpg" alt="Daniela Grigori" width="200" align="right" style="margin-left:20px; border-radius:8px;" />
 
 Daniela Grigori is a Full Professor at 
-[Paris Dauphine – PSL University](https://dauphine.psl.eu) and member of [LAMSADE CNRS laboratory](https://www.lamsade.dauphine.fr/)
-a recognized expert in process mining, data science, and information systems. Her research focuses on behavioral analytics, business process intelligence, and decision support.
+[Paris Dauphine – PSL University](https://dauphine.psl.eu) and member of [LAMSADE CNRS laboratory](https://www.lamsade.dauphine.fr/) and
+a recognized expert in process mining, data science, and information systems. Her research focuses on behavioral analytics, business process intelligence, and decision support, with the ambition of transforming large volumes of heterogeneous data into actionable knowledge.
 
 
 
@@ -15,8 +15,9 @@ Over the years, she has built a strong record of academic leadership, including 
 
 
 ## Main recent responsibilities 
-- Former Director of LAMSADE laboratory (2016 - 2022)  
-- Co-head of the MIDO Department (2018 - 2026)  
+- Former Director of LAMSADE laboratory (2018 - 2021)  
+- Co-head of the MIDO (Mathematics and Comuter Science) teaching department of Paris-Dauphine
+University (2015 - 2017)  
 - Supervision of numerous PhD students (5 current, 9+ defended)  
 - Leadership roles in major international conferences (PC Chair, organizing committees) 
 - Principal or partner in national, international, and industrially funded projects  
@@ -40,9 +41,9 @@ Over the years, she has built a strong record of academic leadership, including 
 <br>
 
 <div align="left">
-<strong>Process Analytics – Concepts and Techniques for Querying and Analyzing Process Data</strong> (Springer, 2016)  
+<strong>Process Analytics – Concepts and Techniques for Querying and Analyzing Process Data</strong> (Springer, 2016)  (co-authored research book) 
 <br>
-<strong>Les processus métiers : concepts, modèles et systèmes</strong> (Lavoisier, 2009) (co-author of two chapters)
+<strong>Les processus métiers : concepts, modèles et systèmes</strong> (Lavoisier, 2009) (contributor and co-author of two chapters in an edited volume)
 </div>
 
 
