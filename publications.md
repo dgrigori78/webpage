@@ -19,6 +19,3 @@ A comprehensive and up-to-date list of publications is available on:
 - P. Delias, D. Grigori, M. L. Mouhoub, A. Tsoukias, Discovering Characteristics that Affect Process Control Flow, LNBIP (Lecture Notes in Business Information Processing)
 - D. Grigori, K. Belhajjame: Business Process Instances Discovery from Email Logs. SCC 2017 (2017 IEEE International Conference on Services Computing): 19-26
   
-# Patents
-- P1: "Method of Identifying And Analyzing Business Processes From Workflow Audit Logs", F. Casati, M.C Shan, U. Dyal, L.J. Jin, D. Grigori, A. Bonifati, US 2002/0174093 A1, 17 May 2001
-- P2 : “Exception analysis, prediction, and prevention method and system”, F. Casati, M.C Shan, U. Dyal, L.J. Jin, D. Grigori, US 2003/0149604 A1, 25 Jan 2002
