@@ -13,7 +13,6 @@ title: Projects
 
 # Patents
 - F. Casati, M.C. Shan, U. Dyal, L.J. Jin, D. Grigori, A. Bonifati, “Method of Identifying and Analyzing Business Processes From Workflow Audit Logs”,  US 2002/0174093 A1, filed May 17, 2001.
-
 - F. Casati, M.C. Shan, U. Dyal, L.J. Jin, D. Grigori,  “Exception Analysis, Prediction, and Prevention Method and System”, US 2003/0149604 A1, filed Jan 25, 2002.
 
 
