@@ -11,3 +11,4 @@ header_pages:
   - service.md
   - talks.md
   - tools.md
+show_excerpts: false
