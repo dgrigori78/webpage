@@ -7,6 +7,9 @@
 
 \f0\fs24 \cf0 # Daniela Grigori  \
 **Full Professor, Paris Dauphine \'96 PSL University**\
+
+<img src="assets/photo.jpg" alt="Daniela Grigori" width="200" align="right" style="margin-left:20px; border-radius:8px;" />
+
 \
 Daniela Grigori is a Full Professor at Paris Dauphine \'96 PSL University and a recognized expert in process mining, data science, and information systems. Her research focuses on behavioral analytics, business process intelligence, and decision support, with the ambition of transforming large volumes of heterogeneous data into actionable knowledge. She develops models, algorithms, and platforms that connect rigorous foundations with measurable operational impact.\
 \
@@ -30,6 +33,23 @@ Over the years, she has built a strong record of academic leadership, including 
 **Les processus m\'e9tiers : concepts, mod\'e8les et syst\'e8mes**, Lavoisier, 2009 (co-author of chapters).\
 \
 ---\
+## Books
+
+<a href="https://link.springer.com/book/10.1007/978-3-319-25037-3">
+  <img src="assets/process-analytics.jpg" width="150" style="margin-right:20px;" />
+</a>
+
+**Process Analytics – Concepts and Techniques for Querying and Analyzing Process Data**, Springer, 2016.
+
+<br><br>
+
+<a href="#">
+  <img src="assets/processus-metiers.jpg" width="150" style="margin-right:20px;" />
+</a>
+
+**Les processus métiers : concepts, modèles et systèmes**, Lavoisier, 2009 (co-author of chapters).
+
+
 \
 ## Quick Links\
 - Full publication list (DBLP / Google Scholar)  \
