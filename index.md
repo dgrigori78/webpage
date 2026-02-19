@@ -2,45 +2,47 @@
 title: Daniela Grigori
 ---
 
-
-
 **Full Professor, Paris Dauphine – PSL University**
 
 <img src="assets/photo.jpg" alt="Daniela Grigori" width="200" align="right" style="margin-left:20px; border-radius:8px;" />
 
 Daniela Grigori is a Full Professor at 
-[Paris Dauphine – PSL University](https://dauphine.psl.eu) and member of [LAMSADE CNRS laboratory](https://www.lamsade.dauphine.fr/) and
-a recognized expert in process mining, data science, and information systems. Her research focuses on behavioral analytics, business process intelligence, and decision support, with the ambition of transforming large volumes of heterogeneous data into actionable knowledge. She develops models, algorithms, and platforms that connect rigorous foundations with measurable operational impact
-
-## Research topics
-My current research lies in the field of process intelligence, with a focus on:
-- Process mining and the discovery of behavioral patterns,
-- Predictive monitoring for multi-object processes,
-- Data preprocessing using AI methods,
-- Data governance and responsible AI challenges (privacy protection, causality, fairness).
-
+[Paris Dauphine – PSL University](https://dauphine.psl.eu) and member of the [LAMSADE CNRS laboratory](https://www.lamsade.dauphine.fr/). She is a recognized expert in process mining, data science, and information systems. Her research focuses on behavioral analytics, business process intelligence, and decision support, with the ambition of transforming large volumes of heterogeneous data into actionable knowledge. She develops models, algorithms, and platforms that connect rigorous foundations with measurable operational impact.
 
 ---
+
+## Research topics
+
+My current research lies in the field of process intelligence, with a focus on:
+
+- Process mining and the discovery of behavioral patterns  
+- Predictive monitoring for multi-object processes  
+- Data preprocessing using AI methods  
+- Data governance and responsible AI challenges (privacy protection, causality, fairness)
+
+---
+
 ## Main recent responsibilities / Key Highlights
-- Former Director of LAMSADE laboratory (2018 - 2021)  
-- Co-head of the MIDO (Mathematics and Comuter Science) teaching department of Paris-Dauphine
-University (2015 - 2017)  
+
+- Former Director of LAMSADE laboratory (2018–2021)  
+- Co-head of the MIDO (Mathematics and Computer Science) teaching department of Paris-Dauphine University (2015–2017)  
 - Supervision of numerous PhD students (5 current, 8 defended)  
-- Leadership roles in major international conferences (PC Chair, organizing committees) 
+- Leadership roles in major international conferences (PC Chair, organizing committees)  
 - Principal or partner in national, international, and industrially funded projects  
 - Co-author of reference books and co-inventor of patents in Business Process Intelligence  
 
 ---
+
 ## Books
 
 <div align="left">
 
 <a href="https://link.springer.com/book/10.1007/978-3-319-25037-3">
-  <img src="assets/book-processus-metiers.jpg" width="130" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.15);" />
+  <img src="assets/book-process-analytics.jpeg" width="130" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.15);" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#">
-  <img src="assets/book-process-analytics.jpeg" width="130" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.15);" />
+  <img src="assets/book-processus-metiers.jpg" width="130" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.15);" />
 </a>
 
 </div>
@@ -48,38 +50,56 @@ University (2015 - 2017)
 <br>
 
 <div align="left">
-<strong>Process Analytics – Concepts and Techniques for Querying and Analyzing Process Data</strong> (Springer, 2016)  (co-authored research book) 
+<strong>Process Analytics – Concepts and Techniques for Querying and Analyzing Process Data</strong> (Springer, 2016) — co-authored research book  
 <br>
-<strong>Les processus métiers : concepts, modèles et systèmes</strong> (Lavoisier, 2009) (contributor and co-author of two chapters in an edited volume)
+<strong>Les processus métiers : concepts, modèles et systèmes</strong> (Lavoisier, 2009) — contributor and co-author of two chapters in an edited volume
 </div>
 
 ---
+
 ## Full publication list
-- [DBLP](https://dblp.org/pid/g/DanielaGrigori.html)
+
+- [DBLP](https://dblp.org/pid/g/DanielaGrigori.html)  
 - [Google Scholar](https://scholar.google.com/citations?user=uOpbfVsAAAAJ&hl=fr)
 
 ---
+
 ## International Network
+
 Active collaborations through co-authorship and joint supervision with partners including major universities in Austria, Germany, Ireland, Italy, Australia, Poland, and Greece.
 
 ---
+
 ## Funding
-Recent and past support from ANR, CNRS, France Relance, PHC Utique, CAPES\'96COFECUB, and international partners, including industrial collaboration with LogPickr.
+
+Recent and past support from ANR, CNRS, France Relance, PHC Utique, CAPES–COFECUB, and international partners, including industrial collaboration with LogPickr.
 
 ---
+
 ## Outreach & Innovation
-- Contribution to the popular science book *Les Big Data à Découvert" (CNRS éditions).  
-- Co-inventor of two patents in Business Process Intelligence.
+
+- Contribution to the popular science book *Les Big Data à Découvert* (CNRS Éditions)  
+- Co-inventor of two patents in Business Process Intelligence  
 
 ---
+
 ## Contact
+
 [Paris Dauphine – PSL University](https://dauphine.psl.eu)  
 [LAMSADE](https://www.lamsade.dauphine.fr/)
+
 <p>
 Email: 
 <a href="mailto:&#100;&#97;&#110;&#105;&#101;&#108;&#97;&#46;&#103;&#114;&#105;&#103;&#111;&#114;&#105;&#64;&#108;&#97;&#109;&#115;&#97;&#100;&#101;&#46;&#100;&#97;&#117;&#112;&#104;&#105;&#110;&#101;&#46;&#102;&#114;">
 &#100;&#97;&#110;&#105;&#101;&#108;&#97;&#46;&#103;&#114;&#105;&#103;&#111;&#114;&#105;&#64;&#108;&#97;&#109;&#115;&#97;&#100;&#101;&#46;&#100;&#97;&#117;&#112;&#104;&#105;&#110;&#101;&#46;&#102;&#114;
 </a>
 </p>
+
+
+
+
+
+
+
 
 
