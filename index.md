@@ -17,7 +17,7 @@ Over the years, she has built a strong record of academic leadership, including 
 \
 ---\
 \
-## Key Highlights\
+## Key Highlights
 - Former Director of LAMSADE (2016 - 2022)  
 - Co-head of the MIDO Department (2018 - 2026)  
 - Supervision of numerous PhD students (5 current, 9+ defended)  
@@ -27,7 +27,7 @@ Over the years, she has built a strong record of academic leadership, including 
 
 ---
 
-## Books\
+## Books
 **Process Analytics \'96 Concepts and Techniques for Querying and Analyzing Process Data**, Springer, 2016.  \
 \
 **Les processus m\'e9tiers : concepts, mod\'e8les et syst\'e8mes**, Lavoisier, 2009 (co-author of chapters).\
@@ -43,14 +43,14 @@ Over the years, she has built a strong record of academic leadership, including 
 <br><br>
 
 <a href="#">
-  <img src="assets/processus-metiers.jpg" width="150" style="margin-right:20px;" />
+  <img src="assets/book-processus-metiers.jpg" width="150" style="margin-right:20px;" />
 </a>
 
 **Les processus métiers : concepts, modèles et systèmes**, Lavoisier, 2009 (co-author of chapters).
 
 
 \
-## Quick Links\
+## Quick Links
 - Full publication list (DBLP / Google Scholar)  \
 - PhD students and alumni  \
 - Professional service and conference roles  \
