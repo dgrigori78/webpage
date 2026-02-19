@@ -3,7 +3,9 @@
 
 <img src="assets/photo.jpg" alt="Daniela Grigori" width="200" align="right" style="margin-left:20px; border-radius:8px;" />
 
-Daniela Grigori is a Full Professor at Paris Dauphine – PSL University and a recognized expert in process mining, data science, and information systems. Her research focuses on behavioral analytics, business process intelligence, and decision support.
+Daniela Grigori is a Full Professor at 
+[Paris Dauphine – PSL University](https://dauphine.psl.eu) and member of [LAMSADE CNRS laboratory](https://www.lamsade.dauphine.fr/)
+a recognized expert in process mining, data science, and information systems. Her research focuses on behavioral analytics, business process intelligence, and decision support.
 
 
 
@@ -12,8 +14,8 @@ Daniela Grigori is a Full Professor at Paris Dauphine \'96 PSL University and a 
 Over the years, she has built a strong record of academic leadership, including the direction of major research structures and the coordination of collective initiatives. She maintains long-term international collaborations and contributes actively to the animation of the scientific community through conference organization, program committees, invited talks, and panels. Her work also involves sustained engagement with industry and public stakeholders, participation in funded projects, contributions to reference books, and innovation activities including patents.
 
 
-## Key Highlights
-- Former Director of LAMSADE (2016 - 2022)  
+## Main recent responsibilities 
+- Former Director of LAMSADE laboratory (2016 - 2022)  
 - Co-head of the MIDO Department (2018 - 2026)  
 - Supervision of numerous PhD students (5 current, 9+ defended)  
 - Leadership roles in major international conferences (PC Chair, organizing committees) 
