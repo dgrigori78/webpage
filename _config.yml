@@ -10,6 +10,7 @@ header_pages:
   - service.md
   - talks.md
   - tools.md
+  - teaching.md
 show_excerpts: false
 footer:
   links: false
