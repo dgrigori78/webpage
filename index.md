@@ -50,7 +50,9 @@ Over the years, she has built a strong record of academic leadership, including 
 
 
 
-
+## Full publication list
+- [DBLP](https://dblp.org/pid/g/DanielaGrigori.html)
+- [Google Scholar](https://scholar.google.com/citations?user=uOpbfVsAAAAJ&hl=fr)
 ## Quick Links
 - Full publication list (DBLP / Google Scholar)  \
 - PhD students and alumni  \
