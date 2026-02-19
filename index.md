@@ -60,7 +60,7 @@ Her research focuses on:
 </div>
 
 
-
+<br>
 
 ## Full publication list
 
