@@ -11,3 +11,7 @@ header_pages:
   - talks.md
   - tools.md
 show_excerpts: false
+footer:
+  links: false
+minima:
+  social_links: false
