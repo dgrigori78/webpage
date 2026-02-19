@@ -28,10 +28,6 @@ Over the years, she has built a strong record of academic leadership, including 
 ---
 
 ## Books
-**Process Analytics \'96 Concepts and Techniques for Querying and Analyzing Process Data**, Springer, 2016.  \
-\
-**Les processus m\'e9tiers : concepts, mod\'e8les et syst\'e8mes**, Lavoisier, 2009 (co-author of chapters).\
-\
 
 
 <a href="https://link.springer.com/book/10.1007/978-3-319-25037-3">
