@@ -11,9 +11,8 @@ title: Daniela Grigori
 Daniela Grigori is a Full Professor at [Paris Dauphine – PSL University](https://dauphine.psl.eu) and member of the [LAMSADE CNRS laboratory](https://www.lamsade.dauphine.fr/). Her research lies at the intersection of process intelligence, data management, and AI-driven analytics for process-aware information systems. She investigates the modeling, analysis, and interpretation of complex process data, with particular emphasis on behavioral pattern discovery, predictive monitoring, and the integration of heterogeneous data sources. 
 
 
-
 **Research profile:**  
-Process intelligence • Process mining • AI-driven analytics • Information systems
+Process intelligence • Process mining • AI-driven analytics • Knowledge extraction from heterogeneous data • Information systems
 
 ---
 
