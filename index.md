@@ -1,5 +1,5 @@
 ---
-title: Daniela Grigori
+title: Daniela Grigori - Home page
 ---
 
 **Full Professor**  
