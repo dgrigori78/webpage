@@ -56,19 +56,14 @@ University (2015 - 2017)
 ## Full publication list
 - [DBLP](https://dblp.org/pid/g/DanielaGrigori.html)
 - [Google Scholar](https://scholar.google.com/citations?user=uOpbfVsAAAAJ&hl=fr)
-## Quick Links
-- Full publication list (DBLP / Google Scholar)  \
-- PhD students and alumni  \
-- Professional service and conference roles  \
-- Grants and projects  \
-- Invited talks, panels and tutorials  \
 
 ## Quick Links
-- [Students](students.md)
+- [PhD students and alumni](students.md)
 - [Publications](publications.md)
-- [Projects](projects.md)
-- [Service](service.md)
-- [Talks](talks.md)
+- [Grants and projects](projects.md)
+- [Professional service and conference roles](service.md)
+- [Invited talks, panels and tutorials](talks.md)
+- [Research Software & Prototypes](tools.md)
 
 
 ## International Network\
