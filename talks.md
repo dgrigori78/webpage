@@ -1,5 +1,5 @@
 ---
-title: Invited Talkss
+title: Invited Talks
 ---
 
 ## Invited Talks
