@@ -10,16 +10,18 @@ title: Daniela Grigori
 
 Daniela Grigori is a Full Professor at 
 [Paris Dauphine – PSL University](https://dauphine.psl.eu) and member of [LAMSADE CNRS laboratory](https://www.lamsade.dauphine.fr/) and
-a recognized expert in process mining, data science, and information systems. Her research focuses on behavioral analytics, business process intelligence, and decision support, with the ambition of transforming large volumes of heterogeneous data into actionable knowledge.
+a recognized expert in process mining, data science, and information systems. Her research focuses on behavioral analytics, business process intelligence, and decision support, with the ambition of transforming large volumes of heterogeneous data into actionable knowledge. She develops models, algorithms, and platforms that connect rigorous foundations with measurable operational impact
 
+## Research topics
+My current research lies in the field of process intelligence, with a focus on:
+• Process mining and the discovery of behavioral patterns,
+• Predictive monitoring for multi-object processes,
+• Data preprocessing using AI methods,
+• Data governance and responsible AI challenges (privacy protection, causality, fairness).
 
-
-Daniela Grigori is a Full Professor at Paris Dauphine \'96 PSL University and a recognized expert in process mining, data science, and information systems. Her research focuses on behavioral analytics, business process intelligence, and decision support, with the ambition of transforming large volumes of heterogeneous data into actionable knowledge. She develops models, algorithms, and platforms that connect rigorous foundations with measurable operational impact.\
-\
-Over the years, she has built a strong record of academic leadership, including the direction of major research structures and the coordination of collective initiatives. She maintains long-term international collaborations and contributes actively to the animation of the scientific community through conference organization, program committees, invited talks, and panels. Her work also involves sustained engagement with industry and public stakeholders, participation in funded projects, contributions to reference books, and innovation activities including patents.
 
 ---
-## Main recent responsibilities 
+## Main recent responsibilities / Key Highlights
 - Former Director of LAMSADE laboratory (2018 - 2021)  
 - Co-head of the MIDO (Mathematics and Comuter Science) teaching department of Paris-Dauphine
 University (2015 - 2017)  
