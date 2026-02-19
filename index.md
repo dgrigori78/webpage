@@ -59,7 +59,8 @@ Her research focuses on:
 <strong>Les processus métiers : concepts, modèles et systèmes</strong> (Lavoisier, 2009) — contributor and co-author of two chapters in an edited volume
 </div>
 
----
+
+
 ## Full publication list
 
 - [DBLP](https://dblp.org/pid/g/DanielaGrigori.html)  
