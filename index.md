@@ -19,9 +19,9 @@ My current research lies in the field of process intelligence, with a focus on:
 
 ---
 
-## Main recent responsibilities / Key Highlights
+## Key Highlights
 
-- Former Director of LAMSADE laboratory (2018–2021)  
+- Former Director of LAMSADE laboratory (2018–2023)  
 - Co-head of the MIDO (Mathematics and Computer Science) teaching department of Paris-Dauphine University (2015–2017)  
 - Supervision of numerous PhD students (5 current, 8 defended)  
 - Leadership roles in major international conferences (PC Chair, organizing committees)  
