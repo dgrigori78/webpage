@@ -5,9 +5,8 @@ title: Publications
 
 # Academic profiles : 
 A comprehensive and up-to-date list of publications is available on:
-- DBLP: https://dblp.org/pid/g/DanielaGrigori.html  
-- Google Scholar: https://scholar.google.com/citations?user=uOpbfVsAAAAJ&hl=fr
-
+- [DBLP](https://dblp.org/pid/g/DanielaGrigori.html)  
+- [Google Scholar](https://scholar.google.com/citations?user=uOpbfVsAAAAJ&hl=fr)
   
 # Selected Publications
 - Wissam Gherissi, Joyce El Haddad, Daniela Grigori:
