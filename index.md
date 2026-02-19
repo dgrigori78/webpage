@@ -62,9 +62,15 @@ University (2015 - 2017)
 - Professional service and conference roles  \
 - Grants and projects  \
 - Invited talks, panels and tutorials  \
-\
----\
-\
+
+## Quick Links
+- [Students](students.md)
+- [Publications](publications.md)
+- [Projects](projects.md)
+- [Service](service.md)
+- [Talks](talks.md)
+
+
 ## International Network\
 Active collaborations through co-authorship and joint supervision with partners including major universities in Austria, Germany, Ireland, Italy, Australia, Poland, and Greece.\
 \
