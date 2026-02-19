@@ -3,10 +3,12 @@ title: Professional Service
 ---
 
 ## Conference Organization
-- Organizing Committee: BDA'18, BDA'11, EDA'06, ICSNW 2004, ICSOC 2014  
-- PC Chair: ICSOC 2015, ICSOC 2014 Workshops, COOPIS 2024  
+- PC Chair: COOPIS 2024, ICSOC 2015, ICSOC 2014 Workshops
+- Congress Review Governance Committee member for 2026 IEEE World Congress on SERVICES
 - Publicity Chair: BPM 2018, BPM 2005  
-- Program Committee member: BPM, EDBT, CAiSE Doctoral Consortium 2010, ICSOC, COOPIS, ICPM, WISE, BDA, EGC, and others  
+- Program Committee member: BPM, EDBT, CAiSE Doctoral Consortium 2010, ICSOC, COOPIS, ICPM, WISE, BDA, EGC, and others
+- Organizing Committee: BDA'18, BDA'11, EDA'06, ICSNW 2004, ICSOC 2014  
+ 
 
 ## Evaluation and Reviewing Activities
 - Project proposal evaluation for: Technology Foundation STW (Netherlands), ECOS-Nord, City University of Hong Kong, NASR Romania, Jacquard program (NWO), ANR ARPEGE  
