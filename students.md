@@ -1,3 +1,6 @@
+---
+title: Students
+---
 
 ## Current PhD Students
 - Skander Ghazzai  
