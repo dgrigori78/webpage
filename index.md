@@ -35,7 +35,7 @@ Over the years, she has built a strong record of academic leadership, including 
 
 
 <a href="https://link.springer.com/book/10.1007/978-3-319-25037-3">
-  <img src="assets/process-analytics.jpg" width="150" style="margin-right:20px;" />
+  <img src="assets/book-process-analytics.jpeg" width="150" style="margin-right:20px;" />
 </a>
 
 **Process Analytics – Concepts and Techniques for Querying and Analyzing Process Data**, Springer, 2016.
