@@ -18,5 +18,8 @@ A Framework for Object-Centric Predictive Process Monitoring Using Graph-Based P
 - M Acheli, D. Grigori, M Weidlich : Discovering and Analyzing Contextual Behavioral Patterns from Event Logs, IEEE Transactions on Knowledge and Data Engineering, 2021 
 - S.-M.-R. Beheshti, B. Benatallah, S. Sakr, Daniela Grigori, H. R. Motahari-Nezhad, M. C. Barukh, A. Gater, S. H. Ryu: Process Analytics - Concepts and Techniques for Querying and Analyzing Process Data. Springer 2016, ISBN 978-3-319-25036-6, pp. 1-178
 -P. Delias, D. Grigori, M. L. Mouhoub, A. Tsoukias, Discovering Characteristics that Affect Process Control Flow, LNBIP (Lecture Notes in Business Information Processing)
-
 - D. Grigori, K. Belhajjame: Business Process Instances Discovery from Email Logs. SCC 2017 (2017 IEEE International Conference on Services Computing): 19-26
+  
+# Patents
+P1: "Method of Identifying And Analyzing Business Processes From Workflow Audit Logs", F. Casati, M.C Shan, U. Dyal, L.J. Jin, D. Grigori, A. Bonifati, US 2002/0174093 A1, 17 May 2001
+P2 : “Exception analysis, prediction, and prevention method and system”, F. Casati, M.C Shan, U. Dyal, L.J. Jin, D. Grigori, US 2003/0149604 A1, 25 Jan 2002
