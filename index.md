@@ -51,47 +51,21 @@ University (2015 - 2017)
 <strong>Les processus métiers : concepts, modèles et systèmes</strong> (Lavoisier, 2009) (contributor and co-author of two chapters in an edited volume)
 </div>
 
-
-
-
-
-
-
-
 ## Full publication list
 - [DBLP](https://dblp.org/pid/g/DanielaGrigori.html)
 - [Google Scholar](https://scholar.google.com/citations?user=uOpbfVsAAAAJ&hl=fr)
 
-## Quick Links
-- [PhD students and alumni](students.md)
-- [Publications](publications.md)
-- [Grants and projects](projects.md)
-- [Professional service and conference roles](service.md)
-- [Invited talks, panels and tutorials](talks.md)
-- [Research Software & Prototypes](tools.md)
-
 
 ## International Network\
-Active collaborations through co-authorship and joint supervision with partners including major universities in Austria, Germany, Ireland, Italy, Australia, Poland, and Greece.\
-\
----\
-\
-## Funding\
-Recent and past support from ANR, CNRS, France Relance, PHC Utique, CAPES\'96COFECUB, and international partners, including industrial collaboration with LogPickr.\
-\
----\
-\
-## Outreach & Innovation\
+Active collaborations through co-authorship and joint supervision with partners including major universities in Austria, Germany, Ireland, Italy, Australia, Poland, and Greece.
+
+## Funding
+Recent and past support from ANR, CNRS, France Relance, PHC Utique, CAPES\'96COFECUB, and international partners, including industrial collaboration with LogPickr.
+
+## Outreach & Innovation
 - Contribution to the popular science book *Les Big Data \'e0 D\'e9couvert* (CNRS \'c9ditions).  \
 - Co-inventor of two patents in Business Process Intelligence.\
-\
----\
-\
-## Contact\
-Paris Dauphine - PSL University  \
-LAMSADE  \
-\
-(email \'96 website \'96 scholar links)\
+
 
 ## Contact
 [Paris Dauphine – PSL University](https://dauphine.psl.eu)  
