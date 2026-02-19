@@ -23,7 +23,7 @@ Over the years, she has built a strong record of academic leadership, including 
 - Former Director of LAMSADE laboratory (2018 - 2021)  
 - Co-head of the MIDO (Mathematics and Comuter Science) teaching department of Paris-Dauphine
 University (2015 - 2017)  
-- Supervision of numerous PhD students (5 current, 9+ defended)  
+- Supervision of numerous PhD students (5 current, 8 defended)  
 - Leadership roles in major international conferences (PC Chair, organizing committees) 
 - Principal or partner in national, international, and industrially funded projects  
 - Co-author of reference books and co-inventor of patents in Business Process Intelligence  
