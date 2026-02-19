@@ -16,6 +16,7 @@ Process mining • AI-driven analytics • Heterogeneous data integration and kn
 
 ---
 
+
 ## Research
 
 Her research focuses on:
