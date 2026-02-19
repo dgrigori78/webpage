@@ -34,11 +34,11 @@ University (2015 - 2017)
 <div align="left">
 
 <a href="https://link.springer.com/book/10.1007/978-3-319-25037-3">
-  <img src="assets/book-processus-metiers.jpg" width="170" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.15);" />
+  <img src="assets/book-processus-metiers.jpg" width="130" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.15);" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#">
-  <img src="assets/book-process-analytics.jpeg" width="170" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.15);" />
+  <img src="assets/book-process-analytics.jpeg" width="130" style="border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.15);" />
 </a>
 
 </div>
@@ -56,15 +56,15 @@ University (2015 - 2017)
 - [Google Scholar](https://scholar.google.com/citations?user=uOpbfVsAAAAJ&hl=fr)
 
 
-## International Network\
+## International Network
 Active collaborations through co-authorship and joint supervision with partners including major universities in Austria, Germany, Ireland, Italy, Australia, Poland, and Greece.
 
 ## Funding
 Recent and past support from ANR, CNRS, France Relance, PHC Utique, CAPES\'96COFECUB, and international partners, including industrial collaboration with LogPickr.
 
 ## Outreach & Innovation
-- Contribution to the popular science book *Les Big Data \'e0 D\'e9couvert* (CNRS \'c9ditions).  \
-- Co-inventor of two patents in Business Process Intelligence.\
+- Contribution to the popular science book *Les Big Data à Découvert" (CNRS éditions).  
+- Co-inventor of two patents in Business Process Intelligence.
 
 
 ## Contact
