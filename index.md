@@ -36,7 +36,6 @@ Her research focuses on:
 - Principal or partner in national, international, and industrially funded projects  
 - Co-author of reference books and co-inventor of patents in Business Process Intelligence  
 
----
 
 ## Books
 
@@ -60,14 +59,12 @@ Her research focuses on:
 <strong>Les processus métiers : concepts, modèles et systèmes</strong> (Lavoisier, 2009) — contributor and co-author of two chapters in an edited volume
 </div>
 
----
 
 ## Full publication list
 
 - [DBLP](https://dblp.org/pid/g/DanielaGrigori.html)  
 - [Google Scholar](https://scholar.google.com/citations?user=uOpbfVsAAAAJ&hl=fr)
 
----
 
 ## International Academic Network
 
@@ -78,15 +75,13 @@ Her research activity involves sustained international collaborations through co
 - University of Trento (Italy)
 - UNSW Sydney (Australia)
 - Democritus University of Thrace (Greece)
-- SGH Warsaw School of Economics (ongoing)
+- SGH Warsaw School of Economics
 
----
 
 ## Funding
 
 Recent and past support from ANR, CNRS, France Relance, PHC Utique, CAPES–COFECUB, and international partners, including industrial collaboration with LogPickr.
 
----
 
 ## Outreach & Innovation
 
