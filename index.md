@@ -1,4 +1,9 @@
-# Daniela Grigori
+---
+title: Daniela Grigori
+---
+
+
+#Daniela Grigori
 **Full Professor, Paris Dauphine – PSL University**
 
 <img src="assets/photo.jpg" alt="Daniela Grigori" width="200" align="right" style="margin-left:20px; border-radius:8px;" />
