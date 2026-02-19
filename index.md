@@ -2,24 +2,32 @@
 title: Daniela Grigori
 ---
 
-**Full Professor, Paris Dauphine – PSL University**
+**Full Professor**  
+[Paris Dauphine – PSL University](https://dauphine.psl.eu)  
+[LAMSADE CNRS](https://www.lamsade.dauphine.fr/)
 
 <img src="assets/photo.jpg" alt="Daniela Grigori" width="200" align="right" style="margin-left:20px; border-radius:8px;" />
 
 Daniela Grigori is a Full Professor at [Paris Dauphine – PSL University](https://dauphine.psl.eu) and member of the [LAMSADE CNRS laboratory](https://www.lamsade.dauphine.fr/). Her research lies at the intersection of process intelligence, data management, and AI-driven analytics for process-aware information systems. She investigates the modeling, analysis, and interpretation of complex process data, with particular emphasis on behavioral pattern discovery, predictive monitoring, and the integration of heterogeneous data sources. 
 
-## Research topics
 
-Her current research lies in the field of process intelligence, with a focus on:
 
-- Process mining and the discovery of behavioral patterns  
-- Predictive monitoring for multi-object processes  
-- Data preprocessing using AI methods  
-- Data governance and responsible AI challenges (privacy protection, causality, fairness)
+**Research profile:**  
+Process intelligence • Process mining • AI-driven analytics • Information systems
 
 ---
 
-## Key Highlights
+## Research
+
+Her research focuses on:
+
+- Process mining and behavioral pattern discovery  
+- Predictive monitoring for multi-object processes  
+- AI-driven analytics for process-aware systems  
+- Data governance and responsible AI (privacy, causality, fairness)
+
+
+## Academic Leadership and Responsibilities
 
 - Former Director of LAMSADE laboratory (2018–2023)  
 - Co-head of the MIDO (Mathematics and Computer Science) teaching department of Paris-Dauphine University (2015–2017)  
@@ -63,21 +71,14 @@ Her current research lies in the field of process intelligence, with a focus on:
 
 ## International Academic Network
 
-Her research activity involves sustained international collaborations through co-authorship and joint supervision of doctoral theses.
-
-She has co-authored publications with colleagues from:
+Her research activity involves sustained international collaborations through co-authorship and joint doctoral supervision with leading institutions including:
 - University of Vienna (Austria)
 - Humboldt University of Berlin (Germany)
 - Dublin City University (Ireland)
 - University of Trento (Italy)
 - UNSW Sydney (Australia)
 - Democritus University of Thrace (Greece)
-
-She is also involved in international doctoral supervision, including:
-- a cotutelle PhD with SGH Warsaw School of Economics (ongoing)
-- a cotutelle PhD with the University of Manouba, Tunisia (defended)
-
-
+- SGH Warsaw School of Economics (ongoing)
 
 ---
 
