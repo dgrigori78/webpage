@@ -6,10 +6,7 @@ title: Daniela Grigori
 
 <img src="assets/photo.jpg" alt="Daniela Grigori" width="200" align="right" style="margin-left:20px; border-radius:8px;" />
 
-Daniela Grigori is a Full Professor at 
-[Paris Dauphine – PSL University](https://dauphine.psl.eu) and member of the [LAMSADE CNRS laboratory](https://www.lamsade.dauphine.fr/). She is a recognized expert in process mining, data science, and information systems. Her research focuses on behavioral analytics, business process intelligence, and decision support, with the ambition of transforming large volumes of heterogeneous data into actionable knowledge. She develops models, algorithms, and platforms that connect rigorous foundations with measurable operational impact.
-
----
+Daniela Grigori is a Full Professor at [Paris Dauphine – PSL University](https://dauphine.psl.eu) and member of the [LAMSADE CNRS laboratory](https://www.lamsade.dauphine.fr/). Her research lies at the intersection of process intelligence, data management, and AI-driven analytics for process-aware information systems. She investigates the modeling, analysis, and interpretation of complex process data, with particular emphasis on behavioral pattern discovery, predictive monitoring, and the integration of heterogeneous data sources. 
 
 ## Research topics
 
@@ -64,9 +61,23 @@ My current research lies in the field of process intelligence, with a focus on:
 
 ---
 
-## International Network
+## International Academic Network
 
-Active collaborations through co-authorship and joint supervision with partners including major universities in Austria, Germany, Ireland, Italy, Australia, Poland, and Greece.
+Her research activity involves sustained international collaborations through co-authorship and joint supervision of doctoral theses.
+
+She has co-authored publications with colleagues from:
+- University of Vienna (Austria)
+- Humboldt University of Berlin (Germany)
+- Dublin City University (Ireland)
+- University of Trento (Italy)
+- UNSW Sydney (Australia)
+- Democritus University of Thrace (Greece)
+
+She is also involved in international doctoral supervision, including:
+- a cotutelle PhD with SGH Warsaw School of Economics (ongoing)
+- a cotutelle PhD with the University of Manouba, Tunisia (defended)
+
+
 
 ---
 
