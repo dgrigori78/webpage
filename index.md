@@ -12,7 +12,7 @@ Daniela Grigori is a Full Professor at [Paris Dauphine – PSL University](https
 
 
 **Research profile:**  
-Process intelligence • Process mining • AI-driven analytics • Heterogeneous data integration and knowledge extraction • Information systems
+Process mining • AI-driven analytics • Heterogeneous data integration and knowledge extraction • Information systems
 
 ---
 
