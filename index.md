@@ -6,7 +6,6 @@
 Daniela Grigori is a Full Professor at Paris Dauphine – PSL University and a recognized expert in process mining, data science, and information systems. Her research focuses on behavioral analytics, business process intelligence, and decision support.
 
 
-\f0\fs24 \cf0 # Daniela Grigori  \
 **Full Professor, Paris Dauphine \'96 PSL University**\
 
 <img src="assets/photo.jpg" alt="Daniela Grigori" width="200" align="right" style="margin-left:20px; border-radius:8px;" />
@@ -19,22 +18,21 @@ Over the years, she has built a strong record of academic leadership, including 
 ---\
 \
 ## Key Highlights\
-- Former Director of LAMSADE (2016\'962022)  \
-- Co-head of the MIDO Department (2018\'962026)  \
-- Supervision of numerous PhD students (5 current, 9+ defended)  \
-- Leadership roles in major international conferences (PC Chair, organizing committees)  \
-- Principal or partner in national, international, and industrially funded projects  \
-- Co-author of reference books and co-inventor of patents in Business Process Intelligence  \
-\
----\
-\
+- Former Director of LAMSADE (2016 - 2022)  
+- Co-head of the MIDO Department (2018 - 2026)  
+- Supervision of numerous PhD students (5 current, 9+ defended)  
+- Leadership roles in major international conferences (PC Chair, organizing committees) 
+- Principal or partner in national, international, and industrially funded projects  
+- Co-author of reference books and co-inventor of patents in Business Process Intelligence  
+
+---
+
 ## Books\
 **Process Analytics \'96 Concepts and Techniques for Querying and Analyzing Process Data**, Springer, 2016.  \
 \
 **Les processus m\'e9tiers : concepts, mod\'e8les et syst\'e8mes**, Lavoisier, 2009 (co-author of chapters).\
 \
----\
-## Books
+
 
 <a href="https://link.springer.com/book/10.1007/978-3-319-25037-3">
   <img src="assets/process-analytics.jpg" width="150" style="margin-right:20px;" />
