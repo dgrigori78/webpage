@@ -87,4 +87,8 @@ Paris Dauphine - PSL University  \
 LAMSADE  \
 \
 (email \'96 website \'96 scholar links)\
-}
+
+## Contact
+[Paris Dauphine – PSL University](https://dauphine.psl.eu)  
+[LAMSADE](https://www.lamsade.dauphine.fr/)
+
