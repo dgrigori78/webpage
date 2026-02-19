@@ -10,7 +10,7 @@ Daniela Grigori is a Full Professor at [Paris Dauphine – PSL University](https
 
 ## Research topics
 
-My current research lies in the field of process intelligence, with a focus on:
+Her current research lies in the field of process intelligence, with a focus on:
 
 - Process mining and the discovery of behavioral patterns  
 - Predictive monitoring for multi-object processes  
