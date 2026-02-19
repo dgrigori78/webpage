@@ -1,5 +1,5 @@
 ---
-title: Service
+title: Professional Service
 ---
 
 ## Conference Organization
