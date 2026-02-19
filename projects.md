@@ -1,4 +1,8 @@
 
+ ---
+title: Projects
+---
+
  # Grants & Projects
 
 - **BeProm** (Behavioral based process analytics), funded by France Relance, industrial collaboration with LogPickr, 2022\'962023  
