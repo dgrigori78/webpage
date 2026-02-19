@@ -1,5 +1,5 @@
 ## Invited Talks
-- 2024 3Behavioral patterns discovery and analysis: issues and challenges\'94, AICCSA  
+- 2024 Behavioral patterns discovery and analysis: issues and challenges\'94, AICCSA  
 - 2011 Workflow discovery, International Conference on Simulation Technology (SimTech), Mini-Symposium Women in Simulation Technology (invited by F. Leymann and D. Karastoyanova)  
 - 2005 Service protocol adaptation\'94, Workshop on Business Processes and Services, BPM International Workshops, Nancy, France  
 
