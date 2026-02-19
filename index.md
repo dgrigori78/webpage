@@ -14,10 +14,10 @@ a recognized expert in process mining, data science, and information systems. He
 
 ## Research topics
 My current research lies in the field of process intelligence, with a focus on:
-• Process mining and the discovery of behavioral patterns,
-• Predictive monitoring for multi-object processes,
-• Data preprocessing using AI methods,
-• Data governance and responsible AI challenges (privacy protection, causality, fairness).
+- Process mining and the discovery of behavioral patterns,
+- Predictive monitoring for multi-object processes,
+- Data preprocessing using AI methods,
+- Data governance and responsible AI challenges (privacy protection, causality, fairness).
 
 
 ---
